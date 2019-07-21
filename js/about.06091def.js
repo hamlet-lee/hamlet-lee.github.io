@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},l=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"about"},[n("h1",[e._v("本训练软件由 Hamlet Lee 创造\n  ")])])}],s=n("2877"),u={},c=Object(s["a"])(u,a,l,!1,null,null,null);t["default"]=c.exports}}]);
+//# sourceMappingURL=about.06091def.js.map
